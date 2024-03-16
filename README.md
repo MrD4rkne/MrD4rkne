@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marcin</h1>
-<h3 align="center">A passionate .NET developer</h3>
+<h3 align="center">A passionate developer</h3>
+<h5 align="center">Looking for summer internship 😁</h3>
+
+> I Don’t Have Dreams, I Have Goals.
 
 - 🎓 I'm a Computer Science Major at the University of Warsaw
 
@@ -9,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MrD4rkne](https://github.com/MrD4rkne)
 
-- 📫 How to reach me **mailto: marcinsz.pv@gmail.com**
+- 📫 How to reach me **[marcinsz.pv@gmail.com](mailto:marcinsz.pv@gmail.com)**
 
 <h3 align="left">Socials:</h3>
 <p align="left">
@@ -26,6 +29,4 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrd4rkne&label=Profile%20views&color=0e75b6&style=flat" alt="mrd4rkne" /> </p>
 
