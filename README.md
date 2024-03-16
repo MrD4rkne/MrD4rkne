@@ -12,9 +12,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MrD4rkne](https://github.com/MrD4rkne)
 
-- 📫 How to reach me **[marcinsz.pv@gmail.com](mailto:marcinsz.pv@gmail.com)**
+- 📫 You can reach me at: **[marcinsz.pv@gmail.com](mailto:marcinsz.pv@gmail.com)**
 
-<h3 align="left">Socials:</h3>
+<h3 align="left">or on socials:</h3>
 <p align="left">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white "marcin-szopa-6a493125a")](https://www.linkedin.com/in/marcin-szopa-6a493125a/)
