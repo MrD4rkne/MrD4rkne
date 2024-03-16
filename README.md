@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Marcin</h1>
+<h3 align="center">A passionate .NET developer</h3>
 
-<!--
-**MrD4rkne/MrD4rkne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I'm a Computer Science Major at the University of Warsaw
 
-Here are some ideas to get you started:
+- 🔭 Currently working on [QueflityMVC](https://github.com/MrD4rkne/QueflityMVC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **.Net, EF, MVC, WebApi**
+
+- 👨‍💻 All of my projects are available at [https://github.com/MrD4rkne](https://github.com/MrD4rkne)
+
+- 📫 How to reach me **mailto: marcinsz.pv@gmail.com**
+
+<h3 align="left">Socials:</h3>
+<p align="left">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white "marcin-szopa-6a493125a")](https://www.linkedin.com/in/marcin-szopa-6a493125a/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white "452100703159320597")](https://discordapp.com/users/452100703159320597)
+
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrd4rkne&label=Profile%20views&color=0e75b6&style=flat" alt="mrd4rkne" /> </p>
+
