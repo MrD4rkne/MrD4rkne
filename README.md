@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcin</h1>
 <h3 align="center">Software developer</h3>
-<h5 align="center">Looking for internship 😁</h3>
+<h5 align="center">Looking for an internship in Warsaw / Remote</h3>
 
 > I Don’t Have Dreams, I Have Goals.
 
