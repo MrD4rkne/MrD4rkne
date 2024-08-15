@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Marcin</h1>
-<h3 align="center">Software developer</h3>
+<h3 align="center">Software developer intern</h3>
 <h5 align="center">Looking for an internship in Warsaw / Remote</h3>
 
 > I Don’t Have Dreams, I Have Goals.
 
-- 🎓 I'm a Computer Science Major at the University of Warsaw
+- 🎓 I'm a Computer Science Major at the University of Warsaw (2nd year)
 
 - 🔭 Currently working on [QueflityMVC](https://github.com/MrD4rkne/QueflityMVC)
 
-- 🌱 I’m currently learning **.Net, EF, MVC, WebApi**
+- 🌱 I’m currently learning **.Net, EF, MVC**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MrD4rkne](https://github.com/MrD4rkne)
 
