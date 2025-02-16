@@ -8,7 +8,7 @@
 
 - 🔭 Currently working as IT Student Assistant - .NET at FOSS
 
-- 🌱 I’m currently learning **.Net, EF, MVC**
+- 🌱 I’m currently learning **.Net, EF, WebApi**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MrD4rkne](https://github.com/MrD4rkne)
 
