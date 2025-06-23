@@ -4,7 +4,7 @@
 
 > I Don’t Have Dreams, I Have Goals.
 
-- 🎓 I'm a Computer Science Major at the University of Warsaw (2nd year)
+- 🎓 I'm a [Computer Science Major](https://github.com/MrD4rkne/cs-bachelors) at the University of Warsaw (2nd year)
 
 - 🔭 Currently working as IT Student Assistant - .NET at FOSS
 
