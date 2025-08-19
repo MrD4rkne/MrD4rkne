@@ -8,7 +8,7 @@
 
 - 🔭 Currently working as IT Student Assistant - .NET at FOSS
 
-- 🌱 I’m currently learning **.Net, EF, WebApi**
+- 🌱 I’m currently working on [OweMe API](https://github.com/MrD4rkne/owe-me-api/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MrD4rkne](https://github.com/MrD4rkne)
 
@@ -17,7 +17,7 @@
 <h3 align="left">or on socials:</h3>
 <p align="left">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white "marcin-szopa-6a493125a")](https://www.linkedin.com/in/marcin-szopa-6a493125a/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white "marcin-szopa-6a493125a")](https://www.linkedin.com/in/marcin-szopa/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white "452100703159320597")](https://discordapp.com/users/452100703159320597)
 
 </p>
