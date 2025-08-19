@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcin</h1>
 <h3 align="center">Software developer intern</h3>
-<h5 align="center">Looking for an internship in Warsaw / Remote during summer holidays 2025</h3>
 
 > I Don’t Have Dreams, I Have Goals.
 
@@ -33,4 +32,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
