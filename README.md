@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcin</h1>
-<h3 align="center">Software developer intern</h3>
+<h3 align="center">Junior Software developer</h3>
 
 > I Don’t Have Dreams, I Have Goals.
 
