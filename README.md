@@ -3,7 +3,7 @@
 
 > I Don’t Have Dreams, I Have Goals.
 
-- 🎓 I'm a [Computer Science Major](https://github.com/MrD4rkne/cs-bachelors) at the University of Warsaw (3rd year)
+- 🎓 I'm a [Computer Science graduate](https://github.com/MrD4rkne/cs-bachelors) from the University of Warsaw
 
 - 🔭 Currently working as IT Student Assistant - .NET at FOSS and doing my Bachelor thesis with [ScyllaDB](https://github.com/scylladb/)
 
