@@ -5,7 +5,7 @@
 
 - 🎓 I'm a [Computer Science graduate](https://github.com/MrD4rkne/cs-bachelors) from the University of Warsaw
 
-- 🔭 Currently working as IT Student Assistant - .NET at FOSS and doing my Bachelor thesis with [ScyllaDB](https://github.com/scylladb/)
+- 🔭 Currently working as IT Student Assistant - .NET at FOSS
 
 - 🌱 I’m currently working on [OweMe API]([https://github.com/MrD4rkne/owe-me-api/](https://github.com/MrD4rkne/oweme-ecosystem/)
 
