@@ -7,7 +7,7 @@
 
 - 🔭 Currently working as IT Student Assistant - .NET at FOSS and doing my Bachelor thesis with [ScyllaDB](https://github.com/scylladb/)
 
-- 🌱 I’m currently working on [OweMe API](https://github.com/MrD4rkne/owe-me-api/) and [Dotnet Dependency Graph](https://github.com/MrD4rkne/dotnet-dependency-graph/)
+- 🌱 I’m currently working on [OweMe API]([https://github.com/MrD4rkne/owe-me-api/](https://github.com/MrD4rkne/oweme-ecosystem/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MrD4rkne](https://github.com/MrD4rkne)
 
