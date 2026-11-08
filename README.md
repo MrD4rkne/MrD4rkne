@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently working on [OweMe](https://github.com/MrD4rkne/oweme-ecosystem/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/MrD4rkne](https://github.com/MrD4rkne)
+- 👨‍💻 All of my projects are available at [github.com/MrD4rkne](https://github.com/MrD4rkne)
 
 - 📫 You can reach me at: **[marcinsz.pv@gmail.com](mailto:marcinsz.pv@gmail.com)**
 
